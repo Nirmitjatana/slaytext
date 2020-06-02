@@ -1,4 +1,4 @@
-# wowtext😮😎
+# Slaytext😮😎
 
 Slaytext is an npm package to reduce text-shadow efforts
 ## Installation
